@@ -10,9 +10,10 @@ console.log(number2);//[ 1, 2, 3, 4 ]
 var number3=[1,2,3,4];
 number3.shift();
 console.log(number3);//[ 2, 3, 4 ]
-var number4=[1,2,3];
- number4=number4.join("");
-console.log(number4);
+var num4=[1,2,3];
+ num5=num4.join("");
+console.log(num5);
+
 
 
 
