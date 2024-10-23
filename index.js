@@ -11,7 +11,7 @@ var number3=[1,2,3,4];
 number3.shift();
 console.log(number3);//[ 2, 3, 4 ]
 var num4=[1,2,3];
- num5=num4.join("");
+ num5=num4.toString();
 console.log(num5);
 
 
